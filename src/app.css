@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+    margin: 0 auto;
+    font-family: sans-serif
+}
+
+.container {
+    width: 980px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    background-color: antiquewhite;
+    padding: 24px;
+}

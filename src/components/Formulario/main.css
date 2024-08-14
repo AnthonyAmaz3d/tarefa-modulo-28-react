@@ -1,0 +1,12 @@
+.input {
+    padding: 8px;
+    margin-top: 24px;
+    border-radius: 10px;
+}
+
+.imc {
+    margin-top: 24px;
+    border: 1px solid #000;
+    border-radius: 10px;
+    padding: 12px;
+}

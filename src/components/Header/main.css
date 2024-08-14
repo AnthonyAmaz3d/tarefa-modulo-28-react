@@ -1,0 +1,11 @@
+.header {
+    border-bottom: 2px solid #000;
+    border-left: 2px solid #000;
+    border-right: 2px solid #000;
+    border-radius: 12px;
+    width: auto;
+}
+
+.titulo {
+    padding: 8px;
+}
