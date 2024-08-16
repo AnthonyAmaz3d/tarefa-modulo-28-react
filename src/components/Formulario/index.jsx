@@ -40,7 +40,7 @@ const Formulario = () => {
             return(
                 <p className="imc">Seu IMC é: {format} e sua situação é: Obesidade 3 (cuidado)💀</p>
             )
-        }
+        } 
     }
 
     
